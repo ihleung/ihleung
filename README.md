@@ -4,7 +4,8 @@
 <h3 align="left">📧 E-mail</h3>
 <a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
-
+<p align="left"><a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="webpack" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  </a>
 <!--
 **ivanhfleung/ivanhfleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
