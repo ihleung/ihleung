@@ -9,9 +9,9 @@
 <h3 align="left">E-mail:</h3>
 <a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
-<p><a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,mongodb,mysql,nodejs,postgres,py,react&perline=9" />
-  </a><a><img src="https://cdn.icon-icons.com/icons2/2699/PNG/64/oracle_logo_icon_168919.png"> </a></p>
+  </a>
 
 <!--
 **ivanhfleung/ivanhfleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
