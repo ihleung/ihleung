@@ -6,9 +6,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="Netlify Page" height="20"/>My Portfolio</a>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ivan-leung-375a48188/"style="margin-left: 5px;">
   <img src="https://cdn.icon-icons.com/icons2/805/PNG/64/linkedin_icon-icons.com_65929.png" alt="LinkedIn" height="20"/>LinkedIn</a>
 <h3 align="left">E-mail:</h3>
