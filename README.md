@@ -2,7 +2,7 @@
 
 <h2>Software Developer</h2>
 <h3>My Portfolio:</h3>
-<a href="https://ivan-hf-leung.netlify.app/" target="_blank" style="margin-left: 5px;">
+<a href="" target="_blank" style="margin-left: 5px;">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="Netlify Page" height="20"/>
   Portfolio
 </a>
