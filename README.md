@@ -2,6 +2,8 @@
 
 <h2>My Name is Ivan</h2>
 <h2>Software Developer</h2>
+<h3 align="left">📧 E-mail</h3>
+<a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
 
 <!--
