@@ -1,12 +1,10 @@
 <h1 align="left">Hi there 👋, My name is Ivan</h1>
 
 <h2>Software Developer</h2>
-<h3>Links:</h3>
+<h3>My Portfolio</h3>
 <a href="" target="_blank" style="margin-left: 5px;">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="Netlify Page" height="20"/>
-  My Portfolio
 </a>
-<a></a>
 <a href="https://www.linkedin.com/in/ivan-leung-375a48188/"style="margin-left: 5px;">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_linkedin_icon_130274.png" alt="LinkedIn" height="20"/>
   </a>
