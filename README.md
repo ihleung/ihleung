@@ -7,7 +7,7 @@
 <a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,mongodb,mysql,nodejs,postgres,py,react&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,mongodb,mysql,nodejs,postgres,py,react&perline=9" />
   </a>
 <!--
 **ivanhfleung/ivanhfleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
