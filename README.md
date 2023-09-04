@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2>My Name is Ivan</h2>
+<h2>Software Developer</h2>
+<h3 align="left">Languages and Tools:</h3>
+
 <!--
 **ivanhfleung/ivanhfleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
