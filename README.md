@@ -3,7 +3,7 @@
 <h2>Software Developer</h2>
 <h3 align="left">E-mail:</h3>
 <a href="" target="_blank" style="margin-left: 5px;">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netlify_logo_icon_169924.png" alt="Netlify Page" height="20"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="Netlify Page" height="20"/>
   My Portfolio
 </a>
 <a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
