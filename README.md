@@ -6,10 +6,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="Netlify Page" height="20"/>
   My Portfolio
 </a>
-&nbsp;
-&nbsp; 
-&nbsp; 
-&nbsp; 
+<a></a>
 <a href="https://www.linkedin.com/in/ivan-leung-375a48188/"style="margin-left: 5px;">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_linkedin_icon_130274.png" alt="LinkedIn" height="20"/>
   </a>
