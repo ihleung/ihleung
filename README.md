@@ -7,7 +7,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ivan-leung-375a48188/"style="margin-left: 5px;">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_linkedin_icon_130274.png" alt="LinkedIn" height="20"/>Linkin Profile</a>
+  <img src="https://cdn.icon-icons.com/icons2/805/PNG/64/linkedin_icon-icons.com_65929.png" alt="LinkedIn" height="20"/>Linkin Profile</a>
 <h3 align="left">E-mail:</h3>
 <a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
