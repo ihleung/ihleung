@@ -2,6 +2,10 @@
 
 <h2>Software Developer</h2>
 <h3 align="left">E-mail:</h3>
+<a href="" target="_blank" style="margin-left: 5px;">
+  <img src="https://icon-icons.com/icon/netlify-logo/169924" alt="Netlify Page" height="20"/>
+  My Portfolio
+</a>
 <a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev">
