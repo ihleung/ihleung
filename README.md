@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Ivan
 
 <h2>Software Developer</h2>
-<h3 align="left">📧 E-mail</h3>
+<h3 align="left">E-mail:</h3>
 <a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="webpack" width="40" height="40"/> </a>
