@@ -4,7 +4,9 @@
 <h3 align="left">E-mail:</h3>
 <a href="mailto:ivan.hf.leung@gmail.com">ivan.hf.leung@gmail.com</a>
 <h3 align="left">Languages and Tools:</h3>
-<a>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 <!--
 **ivanhfleung/ivanhfleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
