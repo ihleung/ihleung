@@ -1,4 +1,6 @@
-### Hi there 👋, My name is Ivan
+### Hi there 👋,
+
+### My name is Ivan
 
 <h2>Software Developer</h2>
 <h3 align="left">E-mail:</h3>
