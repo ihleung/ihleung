@@ -61,6 +61,8 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/> </a>
 
+</p>
+
 <!--
 **ivanhfleung/ivanhfleung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
