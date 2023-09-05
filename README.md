@@ -42,6 +42,8 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="40" height="40"/> </a> 
  
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="40" height="40"/> </a> 
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/> </a>
   </p>
 
 <!--
