@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I am Ivan</h1>
-
+<h3>👨‍💻 About Me:</h3>
 <h2>Software Developer</h2>
 <h3>Links:</h3>
 <a href="" target="_blank" style="margin-left: 5px;">
