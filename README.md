@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I am Ivan</h1>
 <h2>Software Developer</h2>
 <h3>Links:</h3>
-<a href="https://ivan-hf-leung.netlify.app/" target="_blank" style="margin-left: 5px;">
+<a href="" target="_blank" style="margin-left: 5px;">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" alt="Netlify Page" height="40"/>My Portfolio</a>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
